@@ -1,0 +1,6 @@
+{
+  "name": "Nova AI - Asistente Móvil Inteligente",
+  "description": "Asistente de inteligencia artificial personal para tu smartphone con voz interactiva, cámara y análisis visual, recordatorios, notas rápidas y herramientas de productividad.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
